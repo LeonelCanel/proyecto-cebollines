@@ -1,0 +1,6 @@
+estas son especificaciones para que el proyecto funcione de manera local
+
+Crear un usuario en mysql llamado: cebollines
+la contraseña para ese usuario: cebollines@2021
+nombrar la base de datos: delivery
+el servidor para la conexion debe ser: localhost

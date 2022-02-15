@@ -1,0 +1,84 @@
+.tamañoImagen{
+    width: 15%;
+    height: 25%;
+    display:block;
+    margin:auto;
+}
+
+.margenContenedor{
+    margin-top: 2%;
+}
+
+.botonCard{
+    margin-top: 2%;
+    display: block;
+    margin: auto;
+}
+
+.contenedorTextoImagen{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+ 
+
+.centradoTextoImagen{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.colorFotter{
+    color:white;
+    background-color: #327226;
+    margin-top: 2%;
+}
+
+
+a#enlaces{
+    color: white;
+}
+
+.margen{
+    margin-top: 5%;
+}
+
+.justificar{
+    text-align: justify;
+}
+.tituloNachos{
+    text-align: center;
+    color: yellowgreen;
+    margin-top: 3%;
+}
+
+.cantidadPersonas{
+    text-align: center;
+    color:#e18000;
+}
+
+.tamañoTarjeta{    
+    height: 28rem;
+}
+
+.tamañoTarjetaEntradas{
+    height: 30rem;
+}
+
+.tamañoTarjetaCarnesMariscos{
+    height: 35rem;
+}
+
+.centrarImagenes{
+    align-items: center;
+    margin-right: 50%;
+}
+
+.margenTexto{
+    margin-top: 3%;
+}
+
+.margen{
+    margin-top: 3%;
+}
